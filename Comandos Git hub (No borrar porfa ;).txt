@@ -12,3 +12,8 @@ git branch : Ver las ramas del git
 git branch "nombre" : crear ramas
 git push - Envia la informacion a el git hub remoto 
 git merch "nombre" - Unir Ramas
+
+
+
+Gracias Ismael!!
+Jonathan
